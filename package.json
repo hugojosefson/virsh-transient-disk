@@ -1,0 +1,23 @@
+{
+  "name": "@hugojosefson/virsh-transient-disk",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Converts a VM definition from virsh(1) to a new one with the disk marked transient.",
+  "author": "Hugo Josefson <hugo@josefson.org> (https://www.hugojosefson.com/)",
+  "repository": "hugojosefson/virsh-transient-disk",
+  "bin": "transient-disk.js",
+  "scripts": {
+    "test": "npm run lint",
+    "lint": "standard",
+    "lint-fix": "standard --fix"
+  },
+  "dependencies": {
+    "arg": "^4.0.1",
+    "get-stdin": "^6.0.0",
+    "uuid": "^3.3.2",
+    "xml-js": "^1.6.8"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
