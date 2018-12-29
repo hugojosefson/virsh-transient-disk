@@ -9,9 +9,11 @@ definition with these modifications:
 
 ## Usage
 
+No installation needed, thanks to `npx`.
+
 ```bash
 virsh -c qemu:///system dumpxml dev-dispvm \
-  | node transient-disk.js --name new-transient \
+  | npx @hugojosefson/virsh-transient-disk --name new-transient \
   > new-transient.xml
 
 virsh -c qemu:///system define new-transient.xml
