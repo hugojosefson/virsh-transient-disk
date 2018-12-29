@@ -5,6 +5,14 @@
   "description": "Converts a VM definition from virsh(1) to a new one with the disk marked transient.",
   "author": "Hugo Josefson <hugo@josefson.org> (https://www.hugojosefson.com/)",
   "repository": "hugojosefson/virsh-transient-disk",
+  "keywords": [
+    "cli",
+    "virsh",
+    "libvirt",
+    "transient",
+    "kvm",
+    "qemu"
+  ],
   "bin": "transient-disk.js",
   "scripts": {
     "test": "npm run lint",
