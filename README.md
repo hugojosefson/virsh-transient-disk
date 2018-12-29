@@ -16,3 +16,8 @@ virsh -c qemu:///system dumpxml dev-dispvm \
 
 virsh -c qemu:///system define new-transient.xml
 ```
+
+## See also
+
+* libvirt Domain XML format:
+https://libvirt.org/formatdomain.html#elementsDisks
