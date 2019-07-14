@@ -1,6 +1,6 @@
 {
   "name": "@hugojosefson/virsh-transient-disk",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "license": "MIT",
   "description": "Converts a VM definition from virsh(1) to a new one with the disk marked transient.",
   "author": "Hugo Josefson <hugo@josefson.org> (https://www.hugojosefson.com/)",
