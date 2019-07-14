@@ -15,7 +15,7 @@
   ],
   "bin": "transient-disk.js",
   "scripts": {
-    "test": "npm run lint",
+    "test": "yarn lint-fix && ./test.bash",
     "lint": "standard",
     "lint-fix": "standard --fix"
   },
