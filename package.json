@@ -27,5 +27,8 @@
   },
   "devDependencies": {
     "standard": "^13.0.2"
+  },
+  "engines": {
+    "node": "^8.10.0 || ^10.13.0 || >=11.10.1"
   }
 }
