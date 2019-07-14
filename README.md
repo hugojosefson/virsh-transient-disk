@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/hugojosefson/virsh-transient-disk.svg?branch=master)](https://travis-ci.org/hugojosefson/virsh-transient-disk)
 [![npm page](https://img.shields.io/npm/v/@hugojosefson/virsh-transient-disk.svg)](https://www.npmjs.com/package/@hugojosefson/virsh-transient-disk)
-[![License ISC](https://img.shields.io/npm/l/@hugojosefson/virsh-transient-disk.svg)](https://tldrlegal.com/license/mit-license)
+[![License MIT](https://img.shields.io/npm/l/@hugojosefson/virsh-transient-disk.svg)](https://tldrlegal.com/license/mit-license)
 [![SemVer 2.0.0](https://img.shields.io/badge/SemVer-2.0.0-lightgrey.svg)](http://semver.org/spec/v2.0.0.html)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
