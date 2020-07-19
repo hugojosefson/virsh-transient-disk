@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 const arg = require('arg')
-const uuid = require('uuid')
+const { v4: uuid } = require('uuid')
 const getStdin = require('get-stdin')
 const { xml2js, js2xml } = require('xml-js')
 
